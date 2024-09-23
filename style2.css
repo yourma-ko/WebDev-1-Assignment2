@@ -1,0 +1,26 @@
+body {
+    padding-top: 30px;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  ul li {
+    margin-bottom: 10px;
+  }
+  ul li a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  ul li a:hover {
+    text-decoration: underline;
+  }
+  .contact-form {
+    margin-top: 30px;
+  }
+  .container {
+    margin-top: 20px;
+  }
+  h2, h1 {
+    margin-bottom: 20px;
+  }
