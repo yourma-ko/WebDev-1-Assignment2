@@ -1,5 +1,13 @@
 body {
-    padding-top: 30px;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+  
+  header {
+    background-color: #e9ecef;
+    padding: 10px 0;
+    margin-bottom: 20px;
   }
   h1 {
     font-size: 1.8rem;
@@ -20,4 +28,13 @@ body {
   }
   .project p {
     font-size: 1.1rem;
+  }
+  footer {
+    background-color: #e9ecef;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
   }
